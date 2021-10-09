@@ -1,0 +1,36 @@
+*[class*="ps-a"]{
+	position: absolute;
+}
+*[class*="ps-f"]{
+	position: fixed;
+}
+.ps-a-t0{
+	top:0;
+}
+.ps-r{
+	position: relative;
+}
+.ps-a-50x50{
+	top:50%;
+	left:50%;
+}
+.ps-a-l50-b10px{
+	left:50%;
+	bottom: 10px;
+}
+.ps-f-50x50{
+	top:50%;
+	left:50%;
+}
+.ps-a-l-0{
+	left:0;
+}
+.ps-a-r-0{
+	right:0;
+}
+.ps-a-b0{
+	bottom: 0;
+}
+.zi-999{
+	z-index: 999;
+}

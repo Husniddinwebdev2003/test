@@ -1,0 +1,9 @@
+.tr-tr--50x-50{
+	transform: translate(-50%, -50%);
+}
+.tr-tr--50x-150{
+	transform: translate(-50%, -150%);
+}
+.tr-tr--50x-70{
+	transform: translate(-50%, -70%);
+}

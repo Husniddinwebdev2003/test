@@ -1,0 +1,39 @@
+@font-face{
+	src:url(../fonts/icomoon.ttf);
+	font-family: icons;
+}
+
+.icon{
+	font-family: icons;
+	font-style: normal;
+	color:inherit;
+	font-size: inherit;
+	font-weight: inherit;
+}
+.icon.percentage:before {
+	content: "\e900";
+}
+
+.icon.desctop::before {
+	content: "\e901";
+}
+
+.icon.flag::before {
+	content: "\e903";
+}
+
+.icon.server::before {
+	content: "\e904";
+}
+
+.icon.vk-brand::before {
+	content: "\e906";
+}
+
+.icon.insta::before {
+	content: "\e902";
+}
+
+.icon.twitter::before {
+	content: "\e905";
+}

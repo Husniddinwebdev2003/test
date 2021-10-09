@@ -1,0 +1,37 @@
+*[class*="df-"]{
+	display: flex;
+	flex-flow: row wrap;	
+}
+.df-sb-c{
+	justify-content: space-between;
+	align-items: center;
+}
+.df-sb-fs{
+	justify-content: space-between;
+	align-items: flex-start;
+}
+.df-sa-c{
+	justify-content: space-around;
+	align-items: center;
+}
+.df-fs-c{
+	justify-content: flex-start;
+	align-items: center;
+}
+.df-c-c{
+	justify-content: center;
+	align-items: center;
+}
+.df-fe-c{
+	justify-content: flex-end;
+	align-content: center;
+}
+.fd-c{
+	flex-direction: column;
+}
+
+.container-fluid,
+.container {
+  margin-right: auto;
+  margin-left: auto;
+}
